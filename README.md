@@ -33,3 +33,9 @@ The goal of this repository is to monitor my progress and practise different tec
     File Name: 04.heads_or_tails\
     Status: Completed
 
+05. Challenge Name: Maths - Central Tendency\
+    Description: Using a list of random numbers find: Min, Max, Mean, Median and Mode.\
+    Language used: Python\
+    File Name: 05.math_fiveMs.py\
+    Status: Completed
+
