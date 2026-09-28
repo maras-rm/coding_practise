@@ -39,3 +39,9 @@ The goal of this repository is to monitor my progress and practise different tec
     File Name: 05.math_fiveMs.py\
     Status: Completed
 
+06. Challenge Name: Egg decoder\
+    Description: From a egg code find out farming method, country origin and farm ID.\
+    Language Used: Python\
+    File Name: 06.egg_decoder.py\
+    File also used: egg_country_codes.txt
+    Status: Completed
