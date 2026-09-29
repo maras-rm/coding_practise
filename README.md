@@ -43,5 +43,13 @@ The goal of this repository is to monitor my progress and practise different tec
     Description: From a egg code find out farming method, country origin and farm ID.\
     Language Used: Python\
     File Name: 06.egg_decoder.py\
-    File also used: egg_country_codes.txt
+    File also used: egg_country_codes.txt\
     Status: Completed
+
+07. Challenge Name: Italian Takeaway order\
+    Description: Allow a user to order items from the takeaway menu by codes, and tell them the overall cost.\
+    Language Used: Python\
+    File Name: 07.italian_takeaway.py\
+    File also used: food_menu.txt\
+    Status: Completed
+
