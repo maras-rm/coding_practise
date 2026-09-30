@@ -53,3 +53,9 @@ The goal of this repository is to monitor my progress and practise different tec
     File also used: food_menu.txt\
     Status: Completed
 
+08. Challenge Name: Kings and Queens\
+    Description: Allow a user to enter a year, and from a csv file of monarchs, find out who reigned.\
+    Language Used: Python\
+    File Name: 08.kings_and_queens.py\
+    File also used: Monarchs-of-England.csv\
+    Status: Completed
