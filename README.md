@@ -59,3 +59,9 @@ The goal of this repository is to monitor my progress and practise different tec
     File Name: 08.kings_and_queens.py\
     File also used: Monarchs-of-England.csv\
     Status: Completed
+
+09. Challenge Name: Chinese New Year - Zodiac\
+    Description: From the birth year, you can find your zodiac sign and your chinese zodiac element. Also included is what that may mean for the upcoming year.\
+    Language Used: Python\
+    File Name: 09.zodiac.py\
+    Status: Completed
