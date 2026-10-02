@@ -65,3 +65,10 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 09.zodiac.py\
     Status: Completed
+
+10. Challenge Name: Capital city quiz\
+    Description: From 5 cities only one is the capital of a country, when the correct one is guessed a new question is asked, but the game ends when you guess incorrectly.\
+    Language Used: Python\
+    File Name: 10.capitals_quiz.py\
+    Status: Completed
+    
