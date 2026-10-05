@@ -71,4 +71,11 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 10.capitals_quiz.py\
     Status: Completed
+
+11. Challenge Name: World Buildings\
+    Description: Give the user 3 options: Where in the world?, which building is taller?, and a building fact. Depending on user selection play a game or display a fact.\
+    Language Used: Python\
+    File Name: 11.world_buildings.py\
+    File also used: iconic-buildings.csv\
+    Status Completed
     
