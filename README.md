@@ -79,3 +79,8 @@ The goal of this repository is to monitor my progress and practise different tec
     File also used: iconic-buildings.csv\
     Status Completed
     
+12. Challenge Name: Stargate access code\
+    Description: By using a brute force method - specifically looping figure out a 3 letter combination from ASCII values, which is the door code.\
+    Language Used: Python\
+    File Name: 12.startgate_access_code.py\
+    Status: Completed\
