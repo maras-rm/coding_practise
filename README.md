@@ -84,3 +84,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 12.startgate_access_code.py\
     Status: Completed\
+
+13. Challenge Name: Moving zero's
+    Description: Return a integer with all zeros (no matter where they are positioned) moved to the right.
+    Language Used: Python\
+    File Name: 13.moving_zeros.py
+    Status: Completed\
