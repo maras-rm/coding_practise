@@ -83,10 +83,16 @@ The goal of this repository is to monitor my progress and practise different tec
     Description: By using a brute force method - specifically looping figure out a 3 letter combination from ASCII values, which is the door code.\
     Language Used: Python\
     File Name: 12.startgate_access_code.py\
-    Status: Completed\
+    Status: Completed
 
-13. Challenge Name: Moving zero's
-    Description: Return a integer with all zeros (no matter where they are positioned) moved to the right.
+13. Challenge Name: Moving zero's\
+    Description: Return a integer with all zeros (no matter where they are positioned) moved to the right.\
     Language Used: Python\
-    File Name: 13.moving_zeros.py
-    Status: Completed\
+    File Name: 13.moving_zeros.py\
+    Status: Completed
+
+14. Challenge Name: Spongecasing\
+    Description: Print a string with alternating casing, starting with lower case. Words can include spaces, but the pattern should ignore the spacing, and continue alternating.\
+    Language Used: Python\
+    File Name: 14.spongecase.py\
+    Status: Completed
