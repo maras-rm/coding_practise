@@ -96,3 +96,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 14.spongecase.py\
     Status: Completed
+
+15. Challenge Name: Is it a Pronic Number?\
+    Description: Given a number determine whether it is a pronic number or not, returning either True or False.\
+    Language Used: Python\
+    File Name: 15.pronic_number.py\
+    Status: Completed
