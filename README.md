@@ -102,3 +102,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 15.pronic_number.py\
     Status: Completed
+
+16. Challenge Name: Broken Keyboard\
+    Description: Given two strings, broken keys and the word to type, determine if a string can be typed with the remaining good keys on the keyboard, returning either True or False.\
+    Language Used: Python\
+    File Name: 16.broken_keyboard.py\
+    Status: Completed
