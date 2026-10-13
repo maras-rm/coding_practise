@@ -108,3 +108,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 16.broken_keyboard.py\
     Status: Completed
+
+17. Challenge Name: Is it a Disarium Number?\
+    Description: A number is given and split up by its digits. Each digit is raised to the power of its position and added together. If the sum is the same as the original number it is a disarium number.\
+    Language Used: Python\
+    File Name: 17.disarium.py\
+    Status: Completed
