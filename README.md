@@ -114,3 +114,10 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 17.disarium.py\
     Status: Completed
+
+18. Challenge Name: ginortS\
+    Description: Create a function to sort a input by lowercase letters, then upper case letters, followed by digits of odd then even numbers.\
+    Language Used: Python\
+    File Name: 18.ginortS.py\
+    Status: Completed
+
