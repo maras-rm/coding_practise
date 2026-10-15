@@ -121,3 +121,8 @@ The goal of this repository is to monitor my progress and practise different tec
     File Name: 18.ginortS.py\
     Status: Completed
 
+19. Challenge Name: Valid Parenthesis\
+    Description: Create a function that allows an input of a string, determine if the brackets that get opened also get closed by the right bracket, and are done in the correct order as opened.\
+    Language Used: Python\
+    File Name: 19.valid_parenthesis.py\
+    Status: Completed
