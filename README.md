@@ -126,3 +126,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 19.valid_parenthesis.py\
     Status: Completed
+
+20. Challenge Name: Euler's Number\
+    Description: Create a function to find eulers number for a specific value input, with precision.\
+    Language Used: Python\
+    File Name: 20.eulers_number.py\
+    Status: Completed
