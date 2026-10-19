@@ -132,3 +132,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 20.eulers_number.py\
     Status: Completed
+
+21. Challenge Name: Anagramic Subsequence\
+    Description: Create a function to see if an anagram of a string is a subsequence of another string, returning either true or false.\
+    Language Used: Python\
+    File Name: 21.anagram.py\
+    Status: Completed
