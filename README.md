@@ -138,3 +138,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 21.anagram.py\
     Status: Completed
+
+22. Challenge Name: Add Odds\
+    Description: Create a function to find the sum of all odd numbers in a list.\
+    Language Used: Python\
+    File Name: 22.add_odds.py\
+    Status: Completed
