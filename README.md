@@ -144,3 +144,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 22.add_odds.py\
     Status: Completed
+
+23. Challenge Name: Sum Pairs\
+    Description: Create a function to find all pairs from 2 lists, whose sum is equal to a given number.\
+    Language Used: Python\
+    File Name: 23.sum_pairs.py\
+    Status: Completed
