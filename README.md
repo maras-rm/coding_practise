@@ -150,3 +150,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 23.sum_pairs.py\
     Status: Completed
+
+24. Challenge Name: Does the cargo fit?\
+    Description: Create a function to determine if the cargo can fit into a box.\
+    Language Used: Python\
+    File Name: 24.cargo.py\
+    Status: Completed
