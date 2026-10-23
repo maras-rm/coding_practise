@@ -156,3 +156,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 24.cargo.py\
     Status: Completed
+
+25. Challenge Name: String Characteristics\
+    Description: Create a function to find the most common character, and find the character that repeats first in a given string.\
+    Language Used: Python\
+    File Name: 25.string_characteristics.py\
+    Status: Completed
