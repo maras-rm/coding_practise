@@ -162,3 +162,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 25.string_characteristics.py\
     Status: Completed
+
+26. Challenge Name: Length of a line\
+    Description: Create a function to calculate the length of line segments joining 2 given points.\
+    Language Used: Python\
+    File Name: 26.line_length.py\
+    Status: Completed
