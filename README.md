@@ -174,3 +174,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 27.weird_number.py\
     Status: Completed
+
+28. Challenge Name: Is It Pandigital?\
+    Description: Create a function to check if a given number is pandigital.\
+    Language Used: Python\
+    File Name: 28.pandigital.py\
+    Status: Completed
