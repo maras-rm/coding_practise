@@ -180,3 +180,10 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 28.pandigital.py\
     Status: Completed
+
+29. Challenge Name: Stocks to buy and sell\
+    Description: Check different stock prices, to be able to buy the stock when it is the cheapest and sell it at its most expensive.\
+    Language Used: Python\
+    File Name: 29.stock_buy_sell.py\
+    Status: Completed
+
