@@ -187,3 +187,8 @@ The goal of this repository is to monitor my progress and practise different tec
     File Name: 29.stock_buy_sell.py\
     Status: Completed
 
+30. Challenge Name: Find The Monster\
+    Description: Create a game, which allows a user to open 1/3 door, to see if a monster is behind the selected door.\
+    Language Used: Python\
+    File Name: 30.find_the_monster.py\
+    Status: Completed
