@@ -192,3 +192,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 30.find_the_monster.py\
     Status: Completed
+
+31. Challenge Name: Flip the bit\
+    Description: Create a function to flip the bits of a given inetger, and return the number it creates.\
+    Language Used: Python\
+    File Name: 31.flip_the_bit.py\
+    Status: Completed
