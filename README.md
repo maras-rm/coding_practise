@@ -198,3 +198,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 31.flip_the_bit.py\
     Status: Completed
+
+32. Challenge Name: Correct a Sentence\
+    Description: Create a function to correct a sentence, with capitalisation and punctuation.\
+    Language Used: Python\
+    File Name: 32.correct_a_sentence.py\
+    Status: Completed
