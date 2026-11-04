@@ -204,3 +204,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 32.correct_a_sentence.py\
     Status: Completed
+
+33. Challenge Name: Classes\
+    Description: Creating classes, objects, and using Inheritance, Polymorphism and Encapsulation.\
+    Language Used: Python\
+    File Name: 32.class_practise.py\
+    Status: Completed
