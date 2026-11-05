@@ -208,5 +208,11 @@ The goal of this repository is to monitor my progress and practise different tec
 33. Challenge Name: Classes\
     Description: Creating classes, objects, and using Inheritance, Polymorphism and Encapsulation.\
     Language Used: Python\
-    File Name: 32.class_practise.py\
+    File Name: 33.class_practise.py\
+    Status: Completed
+
+34. Challenge Name: Nestable arrays\
+    Description: Create a function to check if one list can be nested in to another.\
+    Language Used: Python\
+    File Name: 34.nestable_array.py\
     Status: Completed
