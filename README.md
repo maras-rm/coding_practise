@@ -216,3 +216,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 34.nestable_array.py\
     Status: Completed
+
+35. Challenge Name: First Tuesday\
+    Description: Create a function to find the date of the first Tuesday of a given month and year.\
+    Language Used: Python\
+    File Name: 35.tuesdays.py\
+    Status: Completed
