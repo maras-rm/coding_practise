@@ -222,3 +222,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 35.tuesdays.py\
     Status: Completed
+
+36. Challenge Name: Counting digits\
+    Description: Create a function to count the number of even or odd digits in a list of ints, based on a boolean.\
+    Language Used: Python\
+    File Name: 36.counting_digits.py\
+    Status: Completed
