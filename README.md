@@ -228,3 +228,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 36.counting_digits.py\
     Status: Completed
+
+37. Challenge Name: Pass or Fail\
+    Description: Create a function to check if a student passed, failed or if the entered marks are invalid.\
+    Language Used: Python\
+    File Name: 37.pass_or_fail.py\
+    Status: Completed
