@@ -234,3 +234,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 37.pass_or_fail.py\
     Status: Completed
+
+38. Challenge Name: Bonus salary\
+    Description: Create a function to calculate bonus from an employees salary, if conditions are met.
+    Language Used: Python\
+    File Name: 38.bonus.py\
+    Status: Completed
