@@ -236,7 +236,13 @@ The goal of this repository is to monitor my progress and practise different tec
     Status: Completed
 
 38. Challenge Name: Bonus salary\
-    Description: Create a function to calculate bonus from an employees salary, if conditions are met.
+    Description: Create a function to calculate bonus from an employees salary, if conditions are met.\
     Language Used: Python\
     File Name: 38.bonus.py\
+    Status: Completed
+
+39. Challenge Name: Is It a Kaprekar?
+    Description: Create a function to check if a given number is a kaprekar number of not.\
+    Language Used: Python\
+    File Name: 39.kaprekar.py\
     Status: Completed
