@@ -241,8 +241,14 @@ The goal of this repository is to monitor my progress and practise different tec
     File Name: 38.bonus.py\
     Status: Completed
 
-39. Challenge Name: Is It a Kaprekar?
+39. Challenge Name: Is It a Kaprekar?\
     Description: Create a function to check if a given number is a kaprekar number of not.\
     Language Used: Python\
     File Name: 39.kaprekar.py\
+    Status: Completed
+
+40. Challenge Name: Meresenne Primes\
+    Description: Create a function to find all mersenne primes up to a given number.\
+    Language Used: Python\
+    File Name: 40.mersenne_primes.py\
     Status: Completed
