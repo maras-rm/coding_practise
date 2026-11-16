@@ -252,3 +252,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 40.mersenne_primes.py\
     Status: Completed
+
+41. Challenge Name: Two Is The Difference.\
+    Desciption: Create a function to check if differences between all consecutive paris are 2.\
+    Language Used: Python\
+    File Name: 41.two_is_difference.py\
+    Status: Completed
