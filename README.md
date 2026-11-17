@@ -258,3 +258,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 41.two_is_difference.py\
     Status: Completed
+
+42. Challenge Name: Jacobsthal Number\
+    Description: Create a function to calculate the jacobsthal number of a given index.\
+    Language Used: Python\
+    File Name: 42.jacobsthal_number.py\
+    Status: Completed
