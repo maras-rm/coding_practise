@@ -270,3 +270,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 43.same_parity.py\
     Status: Completed
+
+44. Challenge Name: Longest Consecutive number\
+    Description: Create a function to find the longest consecutive ascending sequence in a list of numbers.\
+    Language Used: Python\
+    File Name: 44.longest_consecutive_number.py\
+    Status: Completed
