@@ -276,3 +276,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 44.longest_consecutive_number.py\
     Status: Completed
+
+45. Challenge Name: Earned Run Average\
+    Description: Create a function to calculate the earned run average in baseball.\
+    Language Used: Python\
+    File Name: 45.earned_run_av.py\
+    Status: Completed
