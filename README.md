@@ -282,3 +282,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 45.earned_run_av.py\
     Status: Completed
+
+46. Challenge Name: One Three Nine\
+    Description: Create a function to calculate the maximum number of ones, threes and nines that can be obtained from a given number.\
+    Language Used: Python\
+    File Name: 46.one_three_nines.py\
+    Status: Completed
