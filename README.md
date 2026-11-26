@@ -288,3 +288,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 46.one_three_nines.py\
     Status: Completed
+
+47. Challenge Name: Shared digits\
+    Description: Create a function to find and return the digits that are shared between 2 given numbers.\
+    Language Used: Python\
+    File Name: 47.shared_digits.py\
+    Status: Completed
