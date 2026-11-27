@@ -294,3 +294,9 @@ The goal of this repository is to monitor my progress and practise different tec
     Language Used: Python\
     File Name: 47.shared_digits.py\
     Status: Completed
+
+48. Challenge Name: Stalactites or Stalagmites \
+    Description: Create a function to determine whether a given string represents stalactites or stalagmites.\
+    Language Used: Python\
+    File Name: 48.stalactites_stalagmites.py\
+    Status: Completed
